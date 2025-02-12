@@ -47,3 +47,17 @@ To explore and implement an image generation system using Stable Diffusion and C
 
 ![WhatsApp Image 2025-02-12 at 10 02 24_8e258a3b](https://github.com/user-attachments/assets/7c368e2c-9508-4add-a2a9-6969e22375dc)
 
+*Snapshot 4:*
+![WhatsApp Image 2025-02-12 at 12 08 30_f7541964](https://github.com/user-attachments/assets/0677ee7c-031b-41ca-8441-b6cded7d0cd4)
+
+![WhatsApp Image 2025-02-12 at 12 08 45_5e7cf752](https://github.com/user-attachments/assets/b6880e8d-149e-470b-8efe-906461210767)
+
+*Snapshot 5:*
+![WhatsApp Image 2025-02-12 at 12 16 56_5f6680ef](https://github.com/user-attachments/assets/a026f372-3a04-4cb3-865f-d169b3846c16)
+
+![WhatsApp Image 2025-02-12 at 12 17 35_7469ae3d](https://github.com/user-attachments/assets/7fcd81fa-b569-4f81-83c1-5cdaf6112e92)
+
+
+
+
+
